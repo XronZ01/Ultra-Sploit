@@ -1,0 +1,13 @@
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\bin\Debug\Ultra Sploit.exe.config
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\bin\Debug\Ultra Sploit.exe
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\bin\Debug\Ultra Sploit.pdb
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\bin\Debug\WeAreDevs_API.dll
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\obj\Debug\Ultra Sploit.csproj.AssemblyReference.cache
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\obj\Debug\Ultra_Sploit.Form1.resources
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\obj\Debug\Ultra_Sploit.Properties.Resources.resources
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\obj\Debug\Ultra Sploit.csproj.GenerateResource.cache
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\obj\Debug\Ultra Sploit.csproj.CoreCompileInputs.cache
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\obj\Debug\Ultra Sploit.csproj.CopyComplete
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\obj\Debug\Ultra Sploit.exe
+C:\Users\syrox\Desktop\Ultra Sploit\Ultra Sploit\obj\Debug\Ultra Sploit.pdb
